@@ -18,3 +18,12 @@ I'm Sandeep Kumar 😀 and currently pursuing my engineering in the field of Com
 
 ### Projects 👨‍💻
 [Social-Media](https://github.com/Sandivsv/Social_Media_Application) &nbsp;&nbsp;||&nbsp;&nbsp;[Movies-App](https://github.com/Sandivsv/Movies-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Chat-App](https://github.com/Sandivsv/Chat-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Jira-Ticket](https://github.com/Sandivsv/JIRA-Ticket-Clone) &nbsp;&nbsp;
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandivsv&show_icons=true&locale=en&layout=compact" alt="Sandivsv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandivsv&show_icons=true&locale=en" alt="Sandivsv" /></p>
