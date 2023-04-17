@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandivsv&label=Profile%20views&color=0e75b6&style=flat" alt="Sandivsv" /> </p>
 
-<h1 align="center"><a href="https://in.linkedin.com/in/sandeep-kumar-75643619b/"></a><img src="https://img.shields.io/badge/-Sandeep Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sandeep-kumar-75643619b/"/> &nbsp;&nbsp;Sandeep Kumar &nbsp;&nbsp;<a href="mailto:sandeepkmr7379@gmail.com"></a><img src="https://img.shields.io/badge/-sandeepkmr7379@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeepkmr7379@gmail.com"/></h1>
+<h1 align="center"><a href="https://in.linkedin.com/in/sandeep-kumar-75643619b/"><img src="https://img.shields.io/badge/-Sandeep Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sandeep-kumar-75643619b/"/></a> &nbsp;&nbsp;Sandeep Kumar &nbsp;&nbsp;<a href="mailto:sandeepkmr7379@gmail.com"><img src="https://img.shields.io/badge/-sandeepkmr7379@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeepkmr7379@gmail.com"/></a></h1>
 
 </br>
 <h2 align="center">  Hello World 👋🌎! </h2>
