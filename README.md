@@ -6,7 +6,7 @@
 <h2 align="center">  Hello World 👋🌎! </h2>
 
 <p align="center">
-I'm Sandeep Kumar 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻. The best part about me is that I am eager to learn. Although sometimes feel frustrated on not getting appropriate results, but that motivates me to even work harder 🔥. I have experience in programming language like Java. I'm a full stack NodeJs developer, stepping in React development.  
+I'm Sandeep Kumar 😀 and pursued my engineering in the field of Computer Science 👨‍💻 from UIET CSJMU Kanpur. The best part about me is that I am eager to learn. Although sometimes feel frustrated on not getting appropriate results, but that motivates me to even work harder 🔥. I'm a full stack developer, stepping in React and NodeJs development. I have learned programming language like Java, HTML, CSS, JavaScript, etc.   
 </p>
 
 
@@ -17,7 +17,7 @@ I'm Sandeep Kumar 😀 and currently pursuing my engineering in the field of Com
 - 📫 Connect Me on : [Linkedin](https://in.linkedin.com/in/sandeep-kumar-75643619b/).
 
 ### Projects 👨‍💻
-[Social-Media](https://github.com/Sandivsv/Social_Media_Application) &nbsp;&nbsp;||&nbsp;&nbsp;[Movies-App](https://github.com/Sandivsv/Movies-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Chat-App](https://github.com/Sandivsv/Chat-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Jira-Ticket](https://github.com/Sandivsv/JIRA-Ticket-Clone) &nbsp;&nbsp;
+[Contact-Book](https://github.com/Sandivsv/contact-book) &nbsp;&nbsp;||[Social-Media](https://github.com/Sandivsv/Social_Media_Application) &nbsp;&nbsp;||&nbsp;&nbsp;[Movies-App](https://github.com/Sandivsv/Movies-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Chat-App](https://github.com/Sandivsv/Chat-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Jira-Ticket](https://github.com/Sandivsv/JIRA-Ticket-Clone) &nbsp;&nbsp;
 
 
 
