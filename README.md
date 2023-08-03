@@ -17,7 +17,7 @@ I'm Sandeep Kumar 😀 and pursued my engineering in the field of Computer Scien
 - 📫 Connect Me on : [Linkedin](https://in.linkedin.com/in/sandeep-kumar-75643619b/).
 
 ### Projects 👨‍💻
-[Contact-Book](https://github.com/Sandivsv/contact-book) &nbsp;&nbsp;|| &nbsp;&nbsp;[Social-Media](https://github.com/Sandivsv/Social_Media_Application) &nbsp;&nbsp;||&nbsp;&nbsp;[Movies-App](https://github.com/Sandivsv/Movies-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Chat-App](https://github.com/Sandivsv/Chat-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Jira-Ticket](https://github.com/Sandivsv/JIRA-Ticket-Clone) &nbsp;&nbsp; ||&nbsp;&nbsp; [Calculator](https://github.com/Sandivsv/Simple-Calculator) &nbsp;&nbsp;
+[Contact-Book](https://github.com/Sandivsv/contact-book) &nbsp;&nbsp;|| &nbsp;&nbsp;[Social-Media](https://github.com/Sandivsv/MERN-Social-Media) &nbsp;&nbsp;||&nbsp;&nbsp;[Movies-App](https://github.com/Sandivsv/Movies-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Chat-App](https://github.com/Sandivsv/Chat-App) &nbsp;&nbsp;||&nbsp;&nbsp; [Jira-Ticket](https://github.com/Sandivsv/JIRA-Ticket-Clone) &nbsp;&nbsp; ||&nbsp;&nbsp; [Calculator](https://github.com/Sandivsv/Simple-Calculator) &nbsp;&nbsp;
 
 
 
