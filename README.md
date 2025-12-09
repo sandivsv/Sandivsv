@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://in.linkedin.com/in/sandeep-kumar-75643619b/">
+  <a href="https://in.linkedin.com/in/sandivsv">
     <img src="https://img.shields.io/badge/-Sandeep Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;Sandeep Kumar&nbsp;&nbsp;
@@ -22,7 +22,7 @@ Frontend Software Engineer with 2.5+ years of experience building scalable, prod
 Specialized in <b>Vue.js, TypeScript, and modern frontend architecture</b>, with experience in
 <b>B2B SaaS, FinTech, and algorithmic trading platforms</b>.
 <br />
-I enjoy building clean, performant UI systems, reusable components, and collaborating closely with product and backend teams.
+Currently expanding toward <b>full-stack development using Node.js</b>, building REST APIs and backend services to deliver end-to-end product features.
 </p>
 
 ---
@@ -39,15 +39,15 @@ I enjoy building clean, performant UI systems, reusable components, and collabor
 
 ### 🧠 Currently Focused On
 - Building **product-focused frontend applications** using Vue.js + TypeScript  
-- Improving **performance, scalability, and code maintainability**
-- Writing clean, readable, production-ready frontend code
+- Improving **performance, scalability, and maintainability**
+- Expanding into **full-stack development with Node.js and Express**, including REST API design and backend integration
 
 ---
 
 ### 🤝 Open To
 - Frontend / Product Engineering roles
-- Vue.js-based product development
-- Collaboration on meaningful web products
+- Full-stack growth opportunities (Node.js + Vue.js)
+- Collaboration on meaningful, scalable web products
 
 📫 Connect with me on **[LinkedIn](https://in.linkedin.com/in/sandivsv/)**
 
